@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinsu2024
 - 👀 I’m interested in full-stack development, machine learning, and algorithms
-- 🌱 I’m currently learning backend development (APIs and databases)
+- 🌱 I’m currently learning web3.js and Solidity
 - 💞️ I’m looking to collaborate on open-source projects and hackathons
 - 📫 How to reach me: send an email to su.kevin8@gmail.com
 
